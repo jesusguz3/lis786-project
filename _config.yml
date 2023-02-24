@@ -1,12 +1,12 @@
 title: Anxiety + OCD
 theme: minima
 collections:
-  collection:
+  symptoms:
     output: true
 
 
 defaults:
   - scope:
-      type: "collection"
+      type: "symptoms"
     values:
-      layout: collection_item
+      layout: symptom

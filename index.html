@@ -8,12 +8,10 @@ layout: home
     resources, links to other great websites, and even resources en español. </p>
 
 
-    <h1>Some things you'll know after visiting our site:</h1>
-
-    <ul>
-        <li>What exactly is anxiety</li>
-        <li>What exactly is OCD</li>
-        <li>Common symptoms for both</li>
-        <li>Treatment options both natural and medical</li>
-        <li>How they affect the body</li>
-    </ul>
+ <h1>Symptoms of OCD</h1>
+ <p><img src="{{ symptom.image }}" alt="alt text here"/></p>
+{% for symptom in site.symptoms %}
+    <h2>{{ symptom.title }}</h2>
+    <p>{{ symptom.content }}</p>
+    <p>Category: {{ symptom.category }}</p>
+{% endfor %}
