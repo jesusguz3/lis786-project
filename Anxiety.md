@@ -12,11 +12,3 @@ Welcome to the page all about anxiety!
 
 
 
-{% for anxiety in site.anxieties %}
-{% if anxiety.category == 'anxieties' %}
-<h2>{{ anxiety.title }}</h2>
-<p><img src="{{ anxiety.image }}" /></p>
-<p>{{ anxiety.content }}</p>
-<p>Category: {{ anxiety.category }}</p>
-{% endif %}
-{% endfor %} 
