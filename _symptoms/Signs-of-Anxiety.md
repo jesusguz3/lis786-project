@@ -1,6 +1,6 @@
 ---
 title: Signs of Anxiety
-category: symptoms
+category: anxieties
 image: https://www.houstonmethodist.org/-/media/images/contenthub/article-images/mental-health/hub_anxiety_social.jpg?mw=1382&hash=D0CB37CC740FA2C653278BF70D0A8B2D
 ---
 Anxiety is a normal part of life. You may feel worried about meeting with your boss. Or you're anxious about results of
