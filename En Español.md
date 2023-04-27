@@ -15,4 +15,10 @@ impactan el cuerpo, y diferentes maneras en que puedes aliviar y tratar tus sín
  
 
 Primero hablaremos sobre el TOC, o el trastorno obsesivo-compulsivo. Este trastorno hace que una persona tenga 
-pensamientos no deseados y estos son las obsesiones, y que provoquen comportamientos que se repiten. Estos comportamientos que se repiten son las compulsiones.
+pensamientos no deseados y estos son las obsesiones, y que provoquen comportamientos que se repiten. Estos comportamientos que se repiten son las compulsiones. Estas obsesiones y compulsiones se interponen en las actividades diarias de una persona y causan sufrimento mental. Uno puede tratar de ignorar las obsesiones, pero eso solo aumenta el sufrimiento mental de la persona que padece de este trastorno. Eventualmente sientes la necesidad de realizar esos actos compulsivos para intentar de aliviar el estrés. Los pensamientos siguen volviendo, y las compulsiones también. Ese es el círculo vicioso del trastorno obsesivo-compulsivo.
+
+## Síntomas de obsesión
+
+* Temor a la contaminación de gérmenes
+* Temor a hacerle daño a otra persona
+* Temor a las enfermedades
