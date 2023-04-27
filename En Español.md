@@ -48,7 +48,7 @@ No tienes que vivir con este trastorno. Hay remedios y tratamientos que pueden a
 
 *es importante consultar con tu doctor antes de tomar estos medicamentos*
 
-##### La ansiedad
+**La ansiedad**
 
 Ahora hablemos sobre la ansiedad. La ansiedad es parte de la vida y todo el mundo siente ansiedad de vez en cuando. Puedes sentirla antes de una presentación, o una cita por ejemplo. Sin embargo, alguna gente la puede sentir todos los días y sin una razón. Ese susto puede durar horas, días, semanas o hasta meses. La ansiedad puede afectar la vida diaria de una persona y puede causar que alguien se detenga. En esta sección leerás sobre los diferentes tipos de ansiedad, las síntomas comunes, y también tratamientos.
 
