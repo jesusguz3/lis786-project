@@ -45,5 +45,6 @@ Medicamentos:
 * Sertralina
 * Escitalopram 
 * Citalopram
+
 *es importante consultar a tu doctor antes de tomar estos medicamentos*
 
