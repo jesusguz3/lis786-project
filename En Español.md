@@ -31,4 +31,19 @@ pensamientos no deseados y estos son las obsesiones, y que provoquen comportamie
 * Repetir ciertas frases 
 * Limpiar mucho
 
+#### Tratamientos
+
+No tienes que vivir con este trastorno. Hay remedios y tratamientos que pueden aliviar tus síntomas. Puedes tratar los remedios naturales, o también hay medicamentos. Recibir tratamiento cuanto antes es importante para evitar que tus síntomas empeoren y afecten tus actividades cotidianas.
+
+Tratamientos naturales:
+* Recuerda que solo son pensamientos
+* Hacer actividad física
+* Comer avena
+* Dormir bien
+
+Medicamentos:
+* Sertralina
+* Escitalopram 
+* Citalopram
+*es importante consultar a tu doctor antes de tomar estos medicamentos*
 
