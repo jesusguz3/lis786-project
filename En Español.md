@@ -22,3 +22,13 @@ pensamientos no deseados y estos son las obsesiones, y que provoquen comportamie
 * Temor a la contaminación de gérmenes
 * Temor a hacerle daño a otra persona
 * Temor a las enfermedades
+* Pensamientos no deseados 
+
+### Síntomas de compulsiones
+
+* Lavarse la manos una y otra vez
+* Contar en ciertos patrones
+* Repetir ciertas frases 
+* Limpiar mucho
+
+
