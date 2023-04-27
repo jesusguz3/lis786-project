@@ -12,4 +12,6 @@ impactan el cuerpo, y diferentes maneras en que puedes aliviar y tratar tus sín
 # TOC
 
 {% include page-image.html %}
-Primero hablaremos sobre el TOC o el trastorno obsesivo-compulsivo. 
+ 
+
+
