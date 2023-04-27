@@ -35,16 +35,20 @@ pensamientos no deseados y estos son las obsesiones, y que provoquen comportamie
 
 No tienes que vivir con este trastorno. Hay remedios y tratamientos que pueden aliviar tus síntomas. Puedes tratar los remedios naturales, o también hay medicamentos. Recibir tratamiento cuanto antes es importante para evitar que tus síntomas empeoren y afecten tus actividades cotidianas.
 
-Tratamientos naturales:
+**Tratamientos naturales:**
 * Recuerda que solo son pensamientos
 * Hacer actividad física
 * Comer avena
 * Dormir bien
 
-Medicamentos:
+**Medicamentos:**
 * Sertralina
 * Escitalopram 
 * Citalopram
 
-*es importante consultar a tu doctor antes de tomar estos medicamentos*
+*es importante consultar con tu doctor antes de tomar estos medicamentos*
+
+##### La ansiedad
+
+Ahora hablemos sobre la ansiedad. La ansiedad es parte de la vida y todo el mundo siente ansiedad de vez en cuando. Puedes sentirla antes de una presentación, o una cita por ejemplo. Sin embargo, alguna gente la puede sentir todos los días y sin una razón. Ese susto puede durar horas, días, semanas o hasta meses. La ansiedad puede afectar la vida diaria de una persona y puede causar que alguien se detenga. En esta sección leerás sobre los diferentes tipos de ansiedad, las síntomas comunes, y también tratamientos.
 
