@@ -14,4 +14,5 @@ impactan el cuerpo, y diferentes maneras en que puedes aliviar y tratar tus sín
 {% include page-image.html %}
  
 
-
+Primero hablaremos sobre el TOC, o el trastorno obsesivo-compulsivo. Este trastorno hace que una persona tenga 
+pensamientos no deseados y estos son las obsesiones, y que provoquen comportamientos que se repiten. Estos comportamientos que se repiten son las compulsiones.
