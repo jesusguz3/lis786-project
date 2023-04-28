@@ -79,3 +79,7 @@ Si tratas remedios naturales y sigues sintiendo esa preocupación inaguantable, 
 
 **Medicamentos**
 * Duloxetina
+* Escitalopram
+* Paroxetina
+
+Tener el TOC o la ansiedad es normal. No debes sentirte mal o avergonzado por tener uno o ambos trastornos. Pero sí es importante encontrar ayuda y pedir ayuda cuando realmente la necesites. Puedes hablar con alguien en tu familia, un amigo, o tu doctor. No tienes que hacer esto solo. Es importante que hables con alguien, y que recibas el mejor tratamiento. Recuerda que hay varios métodos para aliviar el TOC y la ansiedad. Hay remedios naturales como comer saludable, hacer actividades físicas, dormir bien, hacer yoga, y recordar que solo son pensamientos. Si estos métodos no te sirven, habla con tu médico para ver cuales medicamentos puedes tomar. No tienes que vivir con estos trastornos. Puedes recibir la ayuda adecuada para vencer estos trastornos, y vivir una vida más tranquila. ¡Tú puedes hacerlo!
