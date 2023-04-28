@@ -48,7 +48,23 @@ No tienes que vivir con este trastorno. Hay remedios y tratamientos que pueden a
 
 *es importante consultar con tu doctor antes de tomar estos medicamentos*
 
-**La ansiedad**
+**La Ansiedad**
 
 Ahora hablemos sobre la ansiedad. La ansiedad es parte de la vida y todo el mundo siente ansiedad de vez en cuando. Puedes sentirla antes de una presentación, o una cita por ejemplo. Sin embargo, alguna gente la puede sentir todos los días y sin una razón. Ese susto puede durar horas, días, semanas o hasta meses. La ansiedad puede afectar la vida diaria de una persona y puede causar que alguien se detenga. En esta sección leerás sobre los diferentes tipos de ansiedad, las síntomas comunes, y también tratamientos.
 
+**Los tipos de ansiedad**
+* La aniedad generalizada- este tipo de ansiedad hace que una persona se preocupe de una forma excesiva
+* La fobia social- este tipo de ansiedad hace que una persona se sienta asustado y preocupado en situaciones sociales
+* TOC (trastorno obsesivo-compulsivo)- este tipo de ansiedad hace que una persona haga algo repetidamente para aliviar sus miedos
+
+**Las síntomas comunes**
+* Una preocupación grandísima
+* Agitación
+* Tener los músculos bien tensos
+* Ataques de pánico
+
+**Tratamientos para la ansiedad**
+
+Antes de tomar medicamento para la ansiedad, es importante tratar remedios naturales porque sí pueden ayudar. Puedes empezar con **una dieta saludable.** Incorpora más frutas, verduras, pescado, nueces, granos enteros y carne de alta calidad a tu dieta. Una dieta rica en estas comidas puede ayudar a aliviar tus síntomas de aniedad. Pero cambiar tu dieta no será suficiente.
+
+También es importante 
