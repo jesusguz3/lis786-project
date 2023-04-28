@@ -67,4 +67,8 @@ Ahora hablemos sobre la ansiedad. La ansiedad es parte de la vida y todo el mund
 
 Antes de tomar medicamento para la ansiedad, es importante tratar remedios naturales porque sí pueden ayudar. Puedes empezar con **una dieta saludable.** Incorpora más frutas, verduras, pescado, nueces, granos enteros y carne de alta calidad a tu dieta. Una dieta rica en estas comidas puede ayudar a aliviar tus síntomas de aniedad. Pero cambiar tu dieta no será suficiente.
 
-También es importante 
+También es importante **hacer actividades físicas.** Es importante caminar, correr, montar en bicicleta, o ir al gimnasio. Hacer actividades físicas puede evitar o reducir las síntomas de la ansiedad.
+
+**Limitar el consumo de la cafeína** puede ayudar también. Mucha cafeína puede empeorar los sentimientos de ansiedad porque acelera el corazón. Ya no tomes o tómala en baja cantidad.
+
+Otra forma para evitar or reducir las síntomas de ansiedad es **hacer yoga.** Hacer yoga con regularidad reduce los sentimientos de la ansiedad. Hacer yoga sí toma tiempo, pero con práctica y pacienca, sí puedes lograrlo.
