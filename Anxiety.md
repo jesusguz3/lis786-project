@@ -15,3 +15,7 @@ As you saw on the homepage, we already discussed a little bit what anxiety is. H
 
 **Recap of Symptoms**
 
+We discussed earlier that anxiety is something that everyone feels sometimes. It's a normal part of life. You can feel it before hacing an important meeting with your boss, changing jobs, a first date etc. But there are some people who feel this fear all the time. Sometimes they feel this when doing stressful things but the symptoms may be more severe than the average person, or sometimes a person with anxiety feel anxious for no reason. Someone with anxiety can feel **panic, danger or dread, heart palpitations, rapid breathing, or even panic attacks.** Those aren't the only symptoms. A person with an anxiety disorder can also feel **week and tired, have trouble concentrating, experience gastrointestinal problems, and avoid situations that make them feel anxious.** 
+
+**Recap of anxiety disorders**
+
