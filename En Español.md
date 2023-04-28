@@ -72,3 +72,10 @@ También es importante **hacer actividades físicas.** Es importante caminar, co
 **Limitar el consumo de la cafeína** puede ayudar también. Mucha cafeína puede empeorar los sentimientos de ansiedad porque acelera el corazón. Ya no tomes o tómala en baja cantidad.
 
 Otra forma para evitar or reducir las síntomas de ansiedad es **hacer yoga.** Hacer yoga con regularidad reduce los sentimientos de la ansiedad. Hacer yoga sí toma tiempo, pero con práctica y pacienca, sí puedes lograrlo.
+
+**Medicamentos para la ansiedad**
+
+Si tratas remedios naturales y sigues sintiendo esa preocupación inaguantable, puedes ver si tomar medicamento te ayudará. Hay varios medicamentos que puedes usar y que sí pueden reducir tus síntomas de ansiedad. Pero recuerda: *pregúntale a tu doctor cuál medicamento deberías usar.*
+
+**Medicamentos**
+* Duloxetina
