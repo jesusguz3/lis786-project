@@ -116,4 +116,15 @@ Msking sure you are getting a good night's sleep is a great natural way to help 
  * Paroxetine
 
  **Common side effects with SSRIs:**
- 
+* Blurry Vision
+* Dizziness
+* Dry Mouth
+* Drowsiness
+* Headaches
+
+The next type of anxiety medication is **Benzodiazepines.** This is a sedative drug that focues on relaxing the physical symptoms of anxiety like muscle tension. This type of drug's main focus is relaxation and the effects happen quickly. These can be addictive and are really only used for short-term anxiety.
+
+**Common side affects with Benzodiazepines**
+* Confusion
+* Blurry Vision
+* Drowsiness
