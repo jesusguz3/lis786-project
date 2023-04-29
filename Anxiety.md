@@ -69,5 +69,14 @@ On this website we have a section dedicated to OCD, but we'll give you brief des
 * Constantly checking
 * Counting
 
+**Social Anxiety Disorder (Social Phobia)**
 
+It's totally normal to feel anxious sometimes in social settings. Maybe you're going on a first date, meeting an executive at your job, or giving a presentation in front of a lot of people. But if you have social phobia, normal social interactions cause great amounts of anxiety because you fear being judged or embarassed by the people around you. This phobia can inhibit your function at your job, school, in your relationships, and daily activities. This fear can lead to avoidance of everyday things.
 
+**Symptoms**
+* Fear of interacting with people you don't know
+* Worry about embarassing yourself
+* Avoiding doing certain things like speaking to people out of fear of being embarassed
+* Trembling
+* Sweating 
+* Heart palpitations
