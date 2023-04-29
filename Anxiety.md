@@ -104,3 +104,16 @@ Msking sure you are getting a good night's sleep is a great natural way to help 
  When someone is having an anxiety attakcs or is simply feeling anxious, it is common for the person to start breathing rapidly. This rapid breathing can lead to heart palpitations, dizziness, and it can lead to a panic attack. Practicing and mastering the art of deep breathing can help a tremendous amount in restoring normal breathing and to reduce the anxiety being felt.
 
  **Medications and side effects**
+
+ If the natural remedies aren't enough to calm your anxiety, then it might be time to try medications that are designed to tame anxiety. It's important to remember that these medications can come with **side effects** so it's important to take them with caution. It's also important to remember to **talk to your doctor before starting any of these medications!** Here are a list of medications made for anxiety and their side effects.
+
+ The first type of anxiety medication is a group called **Selective serotonin reuptake inhibitors (SSRIs).** These types stop nerve cells from reabsorbing the chemical serotonin. These typically don't lead to dependency. 
+
+ **Common SSRIs are:**
+ * Citalopram
+ * Escitalopram
+ * Sertraline
+ * Paroxetine
+
+ **Common side effects with SSRIs:**
+ 
