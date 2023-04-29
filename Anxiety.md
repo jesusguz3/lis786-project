@@ -86,6 +86,7 @@ It's totally normal to feel anxious sometimes in social settings. Maybe you're g
 You can't get rid of anxiety completely, after all anxiety can be good since it can make us aware of danger, keeps us prepared, and we can guess when something is risky. But for someone with an anxiety disorder, they may want to keep their symptoms under control and keep them from getting in the way of their life. There are treatment options both natural and medical. First we will talk about natural remedies one can take, and if those don't suffice we will have medical treatment options as well.
 
 **Natural Remedies**
+
  **Physical Activity**
 
 Make sure you keep an active lifestyle. While regular physical activty can keep you in good physical shape, it can also work wonder for your mental shape as well. Getting your body up and moving can keep your mind off things that can cause you anxiety. Getting your heart rate to go up can have an impact on your brain chemistry, and release anti-anxiety neurochemicals like endorphins, and serotonin. Some forms of physical activity you can do to boost these chemicals are walking, running, swimming, riding a bike and hiking. Yoga can also help boost these chemcials.
