@@ -124,7 +124,32 @@ Msking sure you are getting a good night's sleep is a great natural way to help 
 
 The next type of anxiety medication is **Benzodiazepines.** This is a sedative drug that focues on relaxing the physical symptoms of anxiety like muscle tension. This type of drug's main focus is relaxation and the effects happen quickly. These can be addictive and are really only used for short-term anxiety.
 
+**Common Benzodiazepines are:**
+* Diazepam
+* Xanax
+* Librium
+
 **Common side affects with Benzodiazepines:**
 * Confusion
 * Blurry Vision
 * Drowsiness
+
+Another type of anxiety medication is **Tricyclic antidepressants (TCAs).** This medicine hinders the reabsorption of serotonin and norephinephrine.
+
+**Common TCAs:**
+* Imipramine
+* Elavil
+* Pamelor
+
+**Common side effects with TCAs:**
+* Dry mouth
+* Constipation
+* Sweating
+
+**Buspirone** is another type of anxiety medicine that one can take. This can help with short-term or long-term anxiety symptoms. These are slower at getting the job done than Benzodiazepines and may not treat all types of anxiety.
+
+**Common side effects with Buspirones:**
+* Weakness
+* Headaches 
+* Blurry Vision
+* Muscle Pains
