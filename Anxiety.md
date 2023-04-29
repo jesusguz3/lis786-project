@@ -153,3 +153,5 @@ Another type of anxiety medication is **Tricyclic antidepressants (TCAs).** This
 * Headaches 
 * Blurry Vision
 * Muscle Pains
+
+Anxiety is a normal part of life and we all experience it from time to time. However, if you find yourself constantly anxious about meeting with people, worrying, or having panic attacks, it might mean you have an axiety disorder.
