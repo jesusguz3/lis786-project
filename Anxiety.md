@@ -90,8 +90,8 @@ You can't get rid of anxiety completely, after all anxiety can be good since it 
 
 Make sure you keep an active lifestyle. While regular physical activty can keep you in good physical shape, it can also work wonder for your mental shape as well. Getting your body up and moving can keep your mind off things that can cause you anxiety. Getting your heart rate to go up can have an impact on your brain chemistry, and release anti-anxiety neurochemicals like endorphins, and serotonin. Some forms of physical activity you can do to boost these chemicals are walking, running, swimming, riding a bike and hiking. Yoga can also help boost these chemcials.
 
-2. **Get a good night's sleep**
+1. **Get a good night's sleep**
 
 Msking sure you are getting a good night's sleep is a great natural way to help with your anxiety. It's recommended that one gets 7 to 9 hours of sleep every day. Here are some tips to make sure you can a good night's rest. Only sleep at night when you are tired, and try to avoid taking naps during the day. Try not to watch TV, or go on your phone right before bed. Don't drink cofee or have a big meal right before bed. Maintain a cool room. And try to go to sleep at the same time every day.
 
-3. Uhmm
+1. Uhmm
