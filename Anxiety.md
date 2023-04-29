@@ -97,4 +97,8 @@ Msking sure you are getting a good night's sleep is a great natural way to help 
 
  **Have a healthy diet**
 
- Try to avoid unhealthy foods as much as you can. Foods that have artifical flavors and colors, and preservatives can affect the brain in people and can lead to an increase in anxiety. A diet high in sugar can also alter someone's mind. Dehydration can also play a role in anxiety. Make sure you are drinking plenty of water to stay hydrated. Eat less processed foods and eat more foods rich in complex carbohydrates. Foods like oats, brown rice and barley are just a few of the foods that are made up of complex carbs.
+ Try to avoid unhealthy foods as much as you can. Foods that have artifical flavors and colors, and preservatives can affect the brain in people and can lead to an increase in anxiety. A diet high in sugar can also alter someone's mind. Dehydration can also play a role in anxiety. Make sure you are drinking plenty of water to stay hydrated. Eat less processed foods and eat more foods rich in complex carbohydrates. Foods like oats, brown rice and barley are just a few of the foods that are made up of complex carbs. Also make sure to eat more fruits like blueberries, oranges, avocados, and bananas. Also vegetables like spinach, beets, broccoli and kale. Fish can help and lean ptoteins.
+
+ **Practice on calming your breathing**
+
+ When someone is having an anxiety attakcs or is simply feeling anxious, it is common for the person to start breathing rapidly. This rapid breathing can lead to heart palpitations, dizziness, and it can lead to a panic attack. Practicing and mastering the art of deep breathing can help a tremendous amount in restoring normal breathing and to reduce the anxiety being felt.
