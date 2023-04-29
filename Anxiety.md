@@ -88,4 +88,4 @@ You can't get rid of anxiety completely, after all anxiety can be good since it 
 **Natural Remedies**
 1. **Physical Activity**
 
-Make sure you
+Make sure you keep an active lifestyle. While regular physical activty can keep you in good physical shape, it can also work wonder for your mental shape as well. Getting your body up and moving can keep your mind off things that can cause you anxiety. Getting your heart rate to go up can have an impact on your brain chemistry, and release anti-anxiety neurochemicals like endorphins, and serotonin. Some forms of physical activity you can do to boost these chemicals are walking, running, swimming, riding a bike and hiking. Yoga can also help boost these chemcials.
