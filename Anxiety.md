@@ -80,3 +80,6 @@ It's totally normal to feel anxious sometimes in social settings. Maybe you're g
 * Trembling
 * Sweating 
 * Heart palpitations
+
+# Treatments 
+
