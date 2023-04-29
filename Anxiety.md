@@ -49,3 +49,24 @@ A person with panic disorder becomes filled with fear, and it causes them to fee
 
 **Symptoms of panic attacks**
 * Trembling
+* Rapid Heart Beat
+* Chest Pain
+* Sweating
+* Shortness of breath
+
+**Obsessive Compulsive Disorder (OCD)**
+On this website we have a section dedicated to OCD, but we'll give you brief description. A person with OCD has undesired thoughts (obsessions) which leads to repetitive actions (compulsions). These can get in the way of everyday activites and take up a lot of time. Check out our OCD page for more information!
+
+**Just a few symptoms of obsessions**
+* Fear of germs
+* Fear of illnesses
+* Doubting
+* Unwanted thoughts
+
+**Just a few symptoms of compulsions**
+* Washing hands excessively 
+* Constantly checking
+* Counting
+
+
+
