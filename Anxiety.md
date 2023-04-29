@@ -55,6 +55,7 @@ A person with panic disorder becomes filled with fear, and it causes them to fee
 * Shortness of breath
 
 **Obsessive Compulsive Disorder (OCD)**
+
 On this website we have a section dedicated to OCD, but we'll give you brief description. A person with OCD has undesired thoughts (obsessions) which leads to repetitive actions (compulsions). These can get in the way of everyday activites and take up a lot of time. Check out our OCD page for more information!
 
 **Just a few symptoms of obsessions**
