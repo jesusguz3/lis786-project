@@ -93,3 +93,5 @@ Make sure you keep an active lifestyle. While regular physical activty can keep 
 2. **Get a good night's sleep**
 
 Msking sure you are getting a good night's sleep is a great natural way to help with your anxiety. It's recommended that one gets 7 to 9 hours of sleep every day. Here are some tips to make sure you can a good night's rest. Only sleep at night when you are tired, and try to avoid taking naps during the day. Try not to watch TV, or go on your phone right before bed. Don't drink cofee or have a big meal right before bed. Maintain a cool room. And try to go to sleep at the same time every day.
+
+3. Uhmm
