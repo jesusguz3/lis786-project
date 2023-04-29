@@ -102,3 +102,5 @@ Msking sure you are getting a good night's sleep is a great natural way to help 
  **Practice on calming your breathing**
 
  When someone is having an anxiety attakcs or is simply feeling anxious, it is common for the person to start breathing rapidly. This rapid breathing can lead to heart palpitations, dizziness, and it can lead to a panic attack. Practicing and mastering the art of deep breathing can help a tremendous amount in restoring normal breathing and to reduce the anxiety being felt.
+
+ ## Medications and side effects
