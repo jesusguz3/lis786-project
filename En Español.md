@@ -75,7 +75,7 @@ Otra forma para evitar or reducir las síntomas de ansiedad es **hacer yoga.** H
 
 **Medicamentos para la ansiedad**
 
-Si tratas remedios naturales y sigues sintiendo esa preocupación inaguantable, puedes ver si tomar medicamento te ayudará. Hay varios medicamentos que puedes usar y que sí pueden reducir tus síntomas de ansiedad. Pero recuerda: *pregúntale a tu doctor cuál medicamento deberías usar.* También es important recordar que hay efectos secundarios.
+Si tratas remedios naturales y sigues sintiendo esa preocupación inaguantable, puedes ver si tomar medicamento te ayudará. Hay varios medicamentos que puedes usar y que sí pueden reducir tus síntomas de ansiedad. Pero recuerda: *pregúntale a tu doctor cuál medicamento deberías usar.* También es importante recordar que hay efectos secundarios.
 
 **Medicamentos**
 * Duloxetina
