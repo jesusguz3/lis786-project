@@ -83,3 +83,4 @@ It's totally normal to feel anxious sometimes in social settings. Maybe you're g
 
 # Treatments 
 
+You can't get rid of anxiety completely, after all anxiety can be good since it can make us aware of danger, keeps us prepared, and we can guess when something is risky. But for someone with an anxiety disorder, they may want to keep their symptoms under control and keep them from getting in the way of their life. There are treatment options both natural and medical. First we will talk about natural remedies one can take, and if those don't suffice we will have medical treatment options as well.
