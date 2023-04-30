@@ -9,13 +9,13 @@ can experience both, while others may experience just one of them. These can tak
 You may even know that your obessive thoughts are not true and that your cumpulsive behaviors won't 
 actually do anything to stop them, but they are still uncontrollable.
 
-Common symptoms for Obsessions:
+**Common symptoms for Obsessions:**
 * worrying about germs and/or illness
 * fears of harming others
 * fears of saying something offensive
 * intrusive images, thoughts, or sounds
 
-Common symptoms for Compulsions:
+**Common symptoms for Compulsions:**
 * washing hands, body or even objects
 * counting or repeating specific phrases
 * touching something a certain number of times
