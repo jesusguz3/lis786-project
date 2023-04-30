@@ -33,7 +33,7 @@ pensamientos no deseados y estos son las obsesiones, y que provoquen comportamie
 
 #### Tratamientos
 
-No tienes que vivir con este trastorno. Hay remedios y tratamientos que pueden aliviar tus síntomas. Puedes tratar los remedios naturales, o también hay medicamentos. Recibir tratamiento cuanto antes es importante para evitar que tus síntomas empeoren y afecten tus actividades cotidianas.
+No tienes que vivir con este trastorno. Hay remedios y tratamientos que pueden aliviar tus síntomas. Puedes tratar los remedios naturales, o también hay medicamentos. Recibir tratamiento cuanto antes es importante para evitar que tus síntomas empeoren y afecten tus actividades cotidianas. O también puedes ir a terapia.
 
 **Tratamientos naturales:**
 * Recuerda que solo son pensamientos

@@ -41,4 +41,4 @@ Compulsions are the repetitive behaviors one performs to rid themselves of the o
 
 **Cognitive Behavior Therapy (CBT)**
 
-One the most common and effective ways to treat OCD is with cognitive behavior therapy (CBT). 
+One the most common and effective ways to treat OCD is with cognitive behavior therapy (CBT). The most common CBT and the one that's works the best is **Exposure and Response Prevention (ERP).** This therpay is one by a licensed mental health professional. The whole point of ERP is to confront your unwanted thoughts, situations, objects, and images that make you anxious and bring about your obsessions. The goal is for you not to act upon your compulsive behavior. All of this done under the supervision of a therapist. With time, your brain will see the object as a threat no longer. CBT can be really challenging at first, but with time and practice you will see that your thoughts are harmless, they will subside, your fears are not likely to happen, and you will be able to manage things you consider risks.
