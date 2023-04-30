@@ -15,3 +15,6 @@ On this page, you will find information all about OCD, welcome!!!
 <p>Category: {{ symptom.category }}</p>
 {% endif %}
 {% endfor %} 
+
+
+Hi!
