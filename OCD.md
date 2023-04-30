@@ -45,3 +45,4 @@ One the most common and effective ways to treat OCD is with cognitive behavior t
 
 **Natural Remedies**
 
+There are few nautral treatments for OCD. You can increase your **zinc** intake. Zinc is considered to be a neurotransmitter so it plays a role in regulating the brain's response to stress. A lack of it can cause anxiety and OCD. Foods rich in zinc are fish, beans, nuts, dairy products and whole grain cereals. So check your levels and make sure your are getting enough zinc in your diet.
