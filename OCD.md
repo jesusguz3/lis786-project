@@ -36,3 +36,5 @@ Compulsions are the repetitive behaviors one performs to rid themselves of the o
 * Checking that you did not harm someone
 * Rereading or rewriting something
 * Avoiding a situation where your obsessions can be activated
+
+### Treatment Options
