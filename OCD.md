@@ -38,3 +38,7 @@ Compulsions are the repetitive behaviors one performs to rid themselves of the o
 * Avoiding a situation where your obsessions can be activated
 
 ### Treatment Options
+
+**Cognitive Behavior Therapy (CBT)**
+
+One the most common and effective ways to treat OCD is with cognitive behavior therapy (CBT). 
