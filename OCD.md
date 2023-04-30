@@ -12,9 +12,10 @@ On this page, you will find information all about OCD, welcome!!!
 <h2>{{ symptom.title }}</h2>
 <p><img src="{{ symptom.image }}" /></p>
 <p>{{ symptom.content }}</p>
-<p>Category: {{ symptom.category }}</p>
 {% endif %}
 {% endfor %} 
 
 
 Hi!
+
+<p>Category: {{ symptom.category }}</p>
