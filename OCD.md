@@ -62,3 +62,9 @@ If you try CBT, and natural ways to help with your OCD, and none of them work, y
 * Paroxetine
 
 The main job of these medications is to affect the chemical serotonin. If the brain does not have enough of this chemical, the nerves in your brain may not be communicating in the correct way. Taking medications like these can increase serotonin and get your brain where it needs to be. It is important to remember that there are side effects, so ask your doctor about the risks of taking these medications.
+
+
+OCD doesn't have to control your life. You can take back the control by managing your symptoms. There are numerous things you can do to fight OCD. First you need to agknowledge that you have OCD. Next you need to know what exactly causes you to have obsessions and compulsions. Once you realize all of that, then you start getting the help you need. You can start with Cognitive Behavior Therapy (CBT). You will work with a licensed professional to face your fears and the objects that cause you to have obsessive thoughts and compulsions. Or you can try natural remedies like walking, running, or riding a bike. Try getting more zinc into your diet. You can also try acupuncture. If none of these work, there are always medications you can try. Just remember to speak to your doctor to see what is the best medication for you, and make sure to discuss the potential side effects.
+
+
+Remember that the thoughts associated with OCD are not real; they are just thoughts. This is important to remember when starting to treat your OCD. Remembering that they are just thoughts takes away their power, and puts you in control. OCD does not have to keep you from living a happy life. You can take charge and put your mind at ease. You can do this!

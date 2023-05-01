@@ -2,8 +2,6 @@
 title: About this website
 layout: page
 permalink: /about
-image_url: https://media.istockphoto.com/id/1371547852/photo/hello-and-welcome-written-white-lightbox-sitting-on-blue-background.jpg?b=1&s=170667a&w=0&k=20&c=pyL6_mX-HMcMLQqfERrR8CDKHrnZWJItPc1QA8SRQgU=
-image_alt: This is alt text
 ---
 This website is a place where anyone struggling with anxiety, OCD, or both, can get the help they need.
 This website is packed with information on both types of mental illnesses. You will find trusted facts on
