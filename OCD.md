@@ -61,4 +61,4 @@ If you try CBT, and natural ways to help with your OCD, and none of them work, y
 * Clomipramine
 * Paroxetine
 
-The main job of these medications is to affect the chemical serotonin. If the brain does not have enough of this chemical, the nerves in your brain may not be communicating in the correct way. Taking medications like these can increase serotonin and get your brain where it needs to be. It is important to remember that there are side effects, so ask your doctor about the risks of taking these medications. Test.
+The main job of these medications is to affect the chemical serotonin. If the brain does not have enough of this chemical, the nerves in your brain may not be communicating in the correct way. Taking medications like these can increase serotonin and get your brain where it needs to be. It is important to remember that there are side effects, so ask your doctor about the risks of taking these medications.
