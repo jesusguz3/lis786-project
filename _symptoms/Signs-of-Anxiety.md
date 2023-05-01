@@ -8,7 +8,7 @@ a medical test. We all experience anxiety from time to time. However some people
 It's more than just a passing feeling. It can last up to days, weeks, months or even years. It can inferfere 
 with your everyday life. When this happens, you may have an anxiety disorder.
 
-Symptoms of Anxiety:
+**Symptoms of Anxiety:**
 * feelings of danger, panic, or dread
 * rapid heart rate
 * rapid breathing or hyperventilation
@@ -16,7 +16,7 @@ Symptoms of Anxiety:
 
 You may experience a panic attack. A panic attack is a sudden wave of fear or distress.
 
-Symptoms of Panic Attack:
+**Symptoms of Panic Attack:**
 * palpitations
 * sweating
 * shaking
