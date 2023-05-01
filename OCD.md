@@ -55,7 +55,7 @@ Another way to help with OCD is to get **your body moving.** Walking is a great 
 
 If you try CBT, and natural ways to help with your OCD and none of them work, you can also try medications. Antidepressant medications are usually used to treat OCD like Serotonin Reuptake Inhibitor (SRI). These can help in fighting OCD symptoms.
 
-**Common antidepressants used to treat OCD**
+**Common antidepressants used to treat OCD:**
 * Sertraline
 * Citalopram
 * Clomipramine
